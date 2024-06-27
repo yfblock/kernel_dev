@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "13e7510c3a8b8888",
+    "type": "split",
+    "children": [
+      {
+        "id": "996355b91d32a4f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8edd5e0a4362acf7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91068a2a72e48f5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "942621a85463995c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65332a9148f1732b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "761aab6c5f63175f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f7f28ef36c8ddb8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "738a0440d180d582",
+    "type": "split",
+    "children": [
+      {
+        "id": "73d7063d9823dc55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e49a86ad044cd14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b58148a3a3241dc3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e3792605507675e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3e6e429c866befdd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          },
+          {
+            "id": "15cfcda37fb0f863",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd73ca4c6941115e",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-wordnet-plugin:WordNet Dictionary": false,
+      "obsidian-language-learner:Open word search panel": false,
+      "obsidian-language-learner:Open new word panel": false,
+      "obsidian-language-learner:Open statistics": false,
+      "obsidian-language-learner:Data Panel": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-day-planner:Timeline": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "8edd5e0a4362acf7",
+  "lastOpenFiles": [
+    "sel4.md",
+    "Untitled.canvas",
+    "Home.md",
+    "osdev/sel4 doc.md",
+    "HomePage.md",
+    "S.md",
+    "微信图片_20240512164432.jpg",
+    "会议记录.md",
+    "daily/2024/06/2024-06-26.md",
+    "osdev/x11 scale.md",
+    "osdev/ByteOS C++ Version.md",
+    "MicroKernel/sel4_paper.md",
+    "MicroKernel/SEL4 Tutorial.md",
+    "MicroKernel/Sel4 Linux support design.md",
+    "MicroKernel/Sel4 Linux support design.png",
+    "slides/2024-5-12 OS Comp Share.md",
+    "slides/Drawing 2024-05-12 12.29.51.excalidraw.md",
+    "slides/Pasted image 20240512105437.png",
+    "slides/tpl-con-2-1-box.md",
+    "slides/tpl-title-content-box.md",
+    "slides/tpl-title-chart-box.md",
+    "slides/tpl-title-chart-2-box.md",
+    "osdev/HinaOS analysis.md",
+    "Excalidraw/Drawing 2024-05-08 23.29.01.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-07 21.26.23.excalidraw.md",
+    "Pasted image 20240512132122.png",
+    "Pasted image 20240512132609.png",
+    "Pasted image 20240512131839.png",
+    "Pasted image 20240512130122.png",
+    "Pasted image 20240512125132.png",
+    "Pasted image 20240512125118.png",
+    "Pasted image 20240512124825.png",
+    "daily/2024/05/2024-05-09.md",
+    "osdev/OSDevelop.md",
+    "osdev/PolyHAL design.md",
+    "osdev/IdeaWhenDev.md",
+    "daily/2024/06",
+    "MicroKernel",
+    "MicroKernel/export/2024-5-12 OS Comp Share/plugin/chalkboard/style.css",
+    "MicroKernel/export/2024-5-12 OS Comp Share/plugin/chalkboard/plugin.js",
+    "MicroKernel/export/2024-5-12 OS Comp Share/plugin/chalkboard/plugin (copy).js",
+    "MicroKernel/export/2024-5-12 OS Comp Share/plugin/chalkboard/img",
+    "MicroKernel/export/2024-5-12 OS Comp Share/plugin/chalkboard/_style.css",
+    "MicroKernel/export/2024-5-12 OS Comp Share/plugin/chalkboard",
+    "MicroKernel/export/2024-5-12 OS Comp Share/plugin/chart/plugin.js",
+    "MicroKernel/export/2024-5-12 OS Comp Share/plugin/chart/chart.min.js"
+  ]
+}
